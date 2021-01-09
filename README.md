@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-
-=======
 https://github.com/EmmmmmBoom/End-to-End-Learning-for-Self-Driving-Cars
 
 # Nvidia SelfDriving
@@ -14,4 +11,3 @@ The network consists of 5 convolution layers (three 5x5 and two 3x3), and 4 full
 # Howto
 
 To start training run `python main.py`. The data needs to be in the `driving_dataset` folder.
->>>>>>> Stashed changes
