@@ -1,0 +1,8 @@
+*.ipynb
+*.pyc
+*.out
+env2/
+env
+env3
+driving_dataset
+*.hdf5
