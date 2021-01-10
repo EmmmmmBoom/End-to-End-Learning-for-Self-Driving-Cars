@@ -10,7 +10,7 @@ The network consists of 5 convolution layers (three 5x5 and two 3x3), and 4 full
 
 # Howto
 
-To start training run `python main.py`. The data needs to be in the `driving_dataset` folder.
+To start training run `python train.py`. The data needs to be in the `driving_dataset` folder.
 
 # Project 3 (开放式项目) ：自动驾驶之方向盘操纵
 
